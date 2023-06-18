@@ -5,7 +5,7 @@ My personal py template for what I like to have in a project. Other templates ha
 Right now this is only for Windows and expects you to have Python, Pip, and Venv. 
 (on the path too)
 
-```Bash
+```cmd
 git clone https://github.com/JiveyGuy/minimal_py_template.git
 ren minimal_py_template my_project_name
 cd my_project_name
